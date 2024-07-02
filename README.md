@@ -2,5 +2,5 @@
 
 
 ```sh
-git@github.com:OlszarAi/AGHproj.git
+gh repo clone OlszarAi/AGHproj
 ```
